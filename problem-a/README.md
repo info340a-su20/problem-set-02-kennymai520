@@ -52,3 +52,4 @@ In particular, you will need to make the following changes:
 	- Make sure that the [email](https://css-tricks.com/snippets/html/mailto-links/) and [telephone](https://css-tricks.com/the-current-state-of-telephone-links/) number are both links (`<a>`) with proper URI protocols!
 
 	- Replace the word "copyright" with an [HTML Character Entity](https://developer.mozilla.org/en-US/docs/Glossary/Entity) for the copyright symbol. This will ensure that the symbol renders no matter the language settings of the computer.
+### 

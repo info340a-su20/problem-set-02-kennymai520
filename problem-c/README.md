@@ -30,4 +30,4 @@ Instructions for producing this table are detailed below. Note that you will nee
 
 5. All cells (including the header cells) should have `.5em` of [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) around their content. Each cell should also have a [`border-bottom`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom) that is `1px` thick, `solid`, and colored `#d3d3d3`.
 
-6. Add CSS so that every other row in the table's _body_ (starting with the second row of content) has a background color of `#eee` (very light gray). Additionally, add a rule so that when you hover over a row (a `tr`) in the table's _body_, the background color of that row changes to `pink`. You'll need to use a _descendant selector_ and _pseudo-classes_!
+## 6. Add CSS so that every other row in the table's _body_ (starting with the second row of content) has a background color of `#eee` (very light gray). Additionally, add a rule so that when you hover over a row (a `tr`) in the table's _body_, the background color of that row changes to `pink`. You'll need to use a _descendant selector_ and _pseudo-classes_!****
